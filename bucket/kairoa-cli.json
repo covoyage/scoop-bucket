@@ -6,17 +6,17 @@
             "bin": [
                 "kairoa.exe"
             ],
-            "hash": "830fae23f0d7db3cf67b52f19dbd81a7dfa797eb8a819460d71e2a34f7d0de38"
+            "hash": "c563159c3628579942f051e2453b9c3a46c8eacc3e36ac15eb6750039f6ba7c9"
         },
         "64bit": {
             "url": "https://github.com/covoyage/kairoa-cli/releases/download/v0.0.1/kairoa-cli_0.0.1_windows_x86_64.zip",
             "bin": [
                 "kairoa.exe"
             ],
-            "hash": "78f35c01365ba7256878c270be306c6a160ea9af23447b40c5cf7f701354ef29"
+            "hash": "e67ee5e0abdbc3993a93083140c4acd503bfa3779ef8f235c5018c1c1f31dc4e"
         }
     },
     "homepage": "https://github.com/covoyage/kairoa-cli",
-    "license": "MIT",
+    "license": "AGPL-3.0",
     "description": "Kairoa CLI - A developer toolbox with 50+ utilities"
 }
