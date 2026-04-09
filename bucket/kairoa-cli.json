@@ -6,14 +6,14 @@
             "bin": [
                 "kairoa.exe"
             ],
-            "hash": "3db213d3493bbb4ec7d97305062cdfe6b7a405e2dcf883275636f38e8c3b105e"
+            "hash": "5e6c2ea19fdd25b9b635e5dd75eb936304a6a17a05409942f42b06068b9311dd"
         },
         "64bit": {
             "url": "https://github.com/covoyage/kairoa-cli/releases/download/v0.0.1/kairoa-cli_0.0.1_windows_x86_64.zip",
             "bin": [
                 "kairoa.exe"
             ],
-            "hash": "482a635dc456a15cb7cb38c37eea24b8b2cd6dceedd5e3e0bbd8177955de8575"
+            "hash": "f3a8fb0c824beb5fbcdbee811b891780bbb3ff8acac7bfd7f6ab84ddd249cbf2"
         }
     },
     "homepage": "https://github.com/covoyage/kairoa-cli",
