@@ -1,19 +1,19 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/covoyage/kairoa-cli/releases/download/v0.0.1/kairoa-cli_0.0.1_windows_i386.zip",
+            "url": "https://github.com/covoyage/kairoa-cli/releases/download/v0.0.2/kairoa-cli_0.0.2_windows_i386.zip",
             "bin": [
                 "kairoa.exe"
             ],
-            "hash": "c563159c3628579942f051e2453b9c3a46c8eacc3e36ac15eb6750039f6ba7c9"
+            "hash": "e7369d681f75f7551987607bc866c8d6014853203721a60bc4ec606bd22dabdf"
         },
         "64bit": {
-            "url": "https://github.com/covoyage/kairoa-cli/releases/download/v0.0.1/kairoa-cli_0.0.1_windows_x86_64.zip",
+            "url": "https://github.com/covoyage/kairoa-cli/releases/download/v0.0.2/kairoa-cli_0.0.2_windows_x86_64.zip",
             "bin": [
                 "kairoa.exe"
             ],
-            "hash": "e67ee5e0abdbc3993a93083140c4acd503bfa3779ef8f235c5018c1c1f31dc4e"
+            "hash": "f78e95a4b53e1ddc0d93202a01382103d1787e9bd6b80c2b93fbf8d87cad6d2c"
         }
     },
     "homepage": "https://github.com/covoyage/kairoa-cli",
