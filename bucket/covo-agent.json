@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/covoyage/covo-agent/releases/download/v0.0.2/covo-agent_0.0.2_windows_x86_64.zip",
+            "url": "https://github.com/covoyage/covo-agent/releases/download/v0.0.3/covo-agent_0.0.3_windows_x86_64.zip",
             "bin": [
                 "covo-agent.exe"
             ],
-            "hash": "5d940af90a06f093466118c33236bffe51a0b8be03c93121dac6692fd5e8fb11"
+            "hash": "ccb39157a4f03e2fa807d05fe2e922af9a1286918559b51165cdfc66a08aaf8e"
         }
     },
     "homepage": "https://github.com/covoyage/covo-agent",
